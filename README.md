@@ -12,7 +12,7 @@ The 3 malaria datasets used originated from [here](https://github.com/rfordatasc
 
 
 ## US Health Ranking by County Dashboard
-An informative dashboard created using the [dataset](https://public.tableau.com/app/learn/sample-data) after data cleaning
+An informative dashboard created using the [dataset](https://public.tableau.com/app/learn/sample-data) after data cleaning. Dashboard can be found [here](https://public.tableau.com/app/profile/johnsmith3573/viz/USHealthRankingDashboard/Regional)
 
 ![image](https://github.com/user-attachments/assets/73c4bcc9-f37d-4614-9ca6-4a72998d9e01)
 
